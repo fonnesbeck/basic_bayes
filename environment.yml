@@ -1,0 +1,17 @@
+name: bayes_tutorial
+
+channels:
+ - conda-forge
+ 
+dependencies:
+- python=3.6
+- ipython
+- jupyter
+- numpy
+- matplotlib
+- notebook
+- seaborn 
+- patsy 
+- pandas
+- theano
+- pymc3
